@@ -3,6 +3,8 @@
 # ==========================================================
 # one way to place python script in a batch file
 # place python code below (no need for .py file)
+# batch file here thanks to jadient:
+# https://gist.github.com/jadient/9849314
 # ==========================================================
 
 import sys
