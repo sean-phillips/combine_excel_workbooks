@@ -3,7 +3,7 @@
 # ==========================================================
 # one way to place python script in a batch file
 # place python code below (no need for .py file)
-# batch file here thanks to jadient:
+# many thanks for the batch file script from jadient:
 # https://gist.github.com/jadient/9849314
 # ==========================================================
 
